@@ -1,0 +1,54 @@
+.conteiner{
+    font-family: 'Playfair Display', serif;
+}
+
+.cabecalho{
+    color: #D2691E;
+    text-align: center;
+    flex-direction: column;
+}
+
+.cabecalho img{
+    align-self: center;
+    width: 200px;
+    height: auto;
+}
+
+.conteudo{
+    margin: 50px 0;
+}
+
+.conteudo h2{
+    color:#D2691E;	
+}
+
+.formulario{
+    text-align: center;
+    background-color:#F5DEB3;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.formulario h2{
+    color: #D2691E;
+}
+
+footer{
+    color: #D2691E;
+    font-weight: bold;
+    margin: 100px 0;
+}
+
+label{
+    line-height: 40px;
+    flex: 1;
+}
+
+input{
+    flex: 2;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
